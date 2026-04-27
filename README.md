@@ -26,10 +26,10 @@ The main goal is to identify key factors affecting employee turnover and help HR
 
 ## 📂 Project Structure
 
-HR_Analysis.ipynb
-HR_Analysis.sql
-HR_Dashboard.pbix
-README.md
+* HR_Analysis.ipynb
+* HR_Analysis.sql
+* HR_Dashboard.pbix
+* README.md
 
 ---
 
