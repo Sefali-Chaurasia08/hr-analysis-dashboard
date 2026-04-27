@@ -19,7 +19,7 @@ The main goal is to identify key factors affecting employee turnover and help HR
 ## 🛠️ Tools & Technologies Used
 
 * SQL - Data extraction and querying
-* Python (Pandas) - Data cleaning
+* Python (Pandas) - EDA
 * Power BI - Dax, Data visualization and dashboard
 
 ---
