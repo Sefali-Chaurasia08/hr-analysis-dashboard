@@ -67,4 +67,3 @@ The main goal is to identify key factors affecting employee turnover and help HR
 This project helps HR teams understand employee behavior and improve retention using data-driven insights.
 
 
-I am skilled in SQL, Python, and Power BI and interested in solving real-world data problems.
